@@ -18,6 +18,7 @@ html, body {
 	max-width: 1180px;
 	margin: 0px auto;
 	position: 0px 10px;
+	padding: 0 15px;
 }
 
 .header {
